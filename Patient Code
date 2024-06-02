@@ -1,7 +1,13 @@
 enhanced_security_privacy for patient_data
-    anonymize_data for patient_data;                   # New feature. Anonymize patient data to further protect patient privacy
-    Two_factor_authentication for patient_data;        # New feature. Two-factor authentication for accessing patient records
-    Blockchain_technology for for patient_data;        # New feature. Blockchain technology for immutable and secure patient data storage
+    anonymize_data for patient_data;                   
+    Two_factor_authentication for patient_data;        
+    Blockchain_technology for for patient_data; 
+    regularly_update_encryption for patient_data;         # New feature. Regularly update encryption methods to enhance data security
+    Role-based_access_control for patient_data; # New feature. Role-based access control to restrict data access to authorized personnel only
+    Biometric_authentication for patient_data;  # New feature. Biometric authentication for accessing sensitive patient information
+    Advanced encryption algorithms for patient_data;      # New feature. Advanced encryption algorithms for securing data transmissions
+    Secure_cloud_storage for patient_data;                # New feature. Secure cloud storage solutions with robust encryption protocols.
+    Automated_data_redaction for patient_data;            # New feature. To remove personally identifiable information (PII) from documents.
     encrypt_data for patient_data;  
     enforce_access_controls for patient_data;
     audit_logs for patient_data;  
