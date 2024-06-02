@@ -1,0 +1,9 @@
+original_security_privacy for patient_data
+    encrypt_data for patient_data;  
+    enforce_access_controls for patient_data;
+    audit_logs for patient_data;
+    obtain_user_consent for patient_data; 
+    monitor_data_access for patient_data;
+
+patient_data = load_patient_data()
+original_security_privacy for patient_data 
